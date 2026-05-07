@@ -9,7 +9,6 @@ backend/storage/logs/*.log
 backend/bootstrap/cache/*.php
 
 # Env files
-.env
 backend/.env
 frontend/.env
 
@@ -26,3 +25,4 @@ installer-package/installer/
 .DS_Store
 Thumbs.db
 .vscode/
+config.bat
